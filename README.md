@@ -74,5 +74,4 @@ security. Seeking a Cyber Security role to leverage expertise in digital forensi
 [![IAT - Data Analytics](https://img.shields.io/badge/IAT-Data_Analytics-FF9800?style=for-the-badge&logo=tableau&logoColor=white)](https://www.iat.edu.au/)
 
 ## 🚀 Projects
-- Detection Lab
-- SOC Automation Project
+- Billing System
