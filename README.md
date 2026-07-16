@@ -9,7 +9,7 @@ security. Seeking a Cyber Security role to leverage expertise in digital forensi
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Log Analysis          | WesternCACE Group Project|
+| Packet analysis          | <a href="https://github.com/hamzehaguleh/Wireshark-Traffic-Analysis/tree/main"> Wireshark Traffic Analysis </a> |
 | Network Traffic Monitoring and Attack Detection | Sample Assist - Phillipinnes|
 | Moniored Billing System         | Sample Assist - Vietnam |
 | Incident Response Planning and Execution      | SmartApp Business Solutions|
@@ -74,4 +74,4 @@ security. Seeking a Cyber Security role to leverage expertise in digital forensi
 [![IAT - Data Analytics](https://img.shields.io/badge/IAT-Data_Analytics-FF9800?style=for-the-badge&logo=tableau&logoColor=white)](https://www.iat.edu.au/)
 
 ## 🚀 Projects
-- Billing System
+- <a href="https://github.com/hamzehaguleh/Wireshark-Traffic-Analysis/tree/main"> Wireshark Traffic Analysis </a>
