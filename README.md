@@ -11,7 +11,7 @@ security. Seeking a Cyber Security role to leverage expertise in digital forensi
 |-----------------------------------------------|----------------------------|
 | Packet analysis          | <a href="https://github.com/hamzehaguleh/Wireshark-Traffic-Analysis/tree/main"> Wireshark Traffic Analysis </a> |
 | ISO27001 |  <a href="https://github.com/hamzehaguleh/Compliance-Checklist/tree/main"> Compliance Checklist </a> |
-| Monitored Billing System         | Sample Assist - Vietnam |
+| Monitoring Billing System         | <a href="https://github.com/hamzehaguleh/Billing-System---Vietnam/tree/main"> Billing System </a> |
 | Incident Response Planning and Execution      | SmartApp Business Solutions|
 
 ## 🛡️ Cybersecurity Tools 
@@ -76,3 +76,4 @@ security. Seeking a Cyber Security role to leverage expertise in digital forensi
 ## 🚀 Projects
 - <a href="https://github.com/hamzehaguleh/Wireshark-Traffic-Analysis/tree/main"> Wireshark Traffic Analysis </a>
 - <a href="https://github.com/hamzehaguleh/Compliance-Checklist/tree/main"> Compliance Checklist </a>
+- <a href="https://github.com/hamzehaguleh/Billing-System---Vietnam/tree/main"> Billing System </a>
